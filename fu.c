@@ -186,3 +186,19 @@
 //	printf("%d\n", count);
 //	return 0;
 //}
+
+//int main()
+//{
+//	char ch = 0;
+//	int count = 0;
+//	while ((ch = getchar()) != '\n')
+//	{
+//		if (ch == '1')
+//		{
+//			count++;
+//		}
+//	}
+//	printf("%d", count);
+//
+//	return 0;
+//}
